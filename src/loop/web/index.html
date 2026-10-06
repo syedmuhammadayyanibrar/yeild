@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YEILD - Go-To-Market Learning Engine</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&family=IBM+Plex+Mono:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/tokens.css">
+  <link rel="stylesheet" href="/static/css/app.css">
+  <script src="/static/vendor/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-section">
+      <a href="#inbox" class="brand-logo">YEILD</a>
+      <nav class="top-nav">
+        <a href="#inbox" class="nav-link active" data-tab="inbox">Inbox</a>
+        <a href="#leads" class="nav-link" data-tab="leads">Today's Leads</a>
+        <a href="#plan" class="nav-link" data-tab="plan">Next Week's Plan</a>
+        <a href="#ledger" class="nav-link" data-tab="ledger">Results Ledger</a>
+        <a href="#evaluation" class="nav-link" data-tab="evaluation">Evaluation</a>
+      </nav>
+    </div>
+    <div class="customer-selector-container">
+      <select id="customer-select" class="customer-selector"></select>
+    </div>
+  </header>
+
+  <main id="main-view" class="main-content"></main>
+
+  <script type="module" src="/static/js/app.js"></script>
+</body>
+</html>

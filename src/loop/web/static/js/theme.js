@@ -1,0 +1,45 @@
+export const THEME = {
+  ink: "#111111",
+  black: "#000000",
+  oxblood: "#540000",
+  oxbloodDeep: "#3a0101",
+  teal: "#004749",
+  tealDeep: "#013b3f",
+  sand: "#b09b72",
+  sandDeep: "#938160",
+  mist: "#ededed",
+  silver: "#cccccc",
+  gridLine: "rgba(17, 17, 17, 0.10)",
+  bandTeal: "rgba(0, 71, 73, 0.15)",
+  bandOxblood: "rgba(84, 0, 0, 0.15)",
+  bandSand: "rgba(176, 155, 114, 0.15)",
+};
+
+export const PLOTLY_BASE_LAYOUT = {
+  paper_bgcolor: THEME.mist,
+  plot_bgcolor: THEME.mist,
+  font: {
+    family: "Inter, sans-serif",
+    size: 12,
+    color: THEME.ink,
+  },
+  margin: { t: 40, r: 24, b: 48, l: 64 },
+  hovermode: "closest",
+  xaxis: {
+    showgrid: false,
+    zeroline: true,
+    zerolinecolor: THEME.gridLine,
+    ticks: "outside",
+    tickcolor: THEME.ink,
+    tickfont: { family: "IBM Plex Mono, monospace", size: 11, color: THEME.ink },
+  },
+  yaxis: {
+    showgrid: true,
+    gridcolor: THEME.gridLine,
+    zeroline: true,
+    zerolinecolor: THEME.gridLine,
+    ticks: "outside",
+    tickcolor: THEME.ink,
+    tickfont: { family: "IBM Plex Mono, monospace", size: 11, color: THEME.ink },
+  },
+};

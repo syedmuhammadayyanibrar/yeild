@@ -1,0 +1,28 @@
+:root {
+  --color-ink: #111111;
+  --color-black: #000000;
+  --color-oxblood: #540000;
+  --color-oxblood-deep: #3a0101;
+  --color-teal: #004749;
+  --color-teal-deep: #013b3f;
+  --color-sand: #b09b72;
+  --color-sand-deep: #938160;
+  --color-mist: #ededed;
+  --color-silver: #cccccc;
+
+  --color-border-dark: rgba(237, 237, 237, 0.14);
+  --color-border-paper: rgba(204, 204, 204, 0.40);
+  --color-sand-alpha12: rgba(176, 155, 114, 0.12);
+  --color-ink-alpha10: rgba(17, 17, 17, 0.10);
+  --color-teal-alpha15: rgba(0, 71, 73, 0.15);
+  --color-oxblood-alpha15: rgba(84, 0, 0, 0.15);
+  --color-sand-alpha15: rgba(176, 155, 114, 0.15);
+
+  --font-display: "Barlow Condensed", "Arial Narrow", -apple-system, sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "IBM Plex Mono", "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
+
+  --radius: 2px;
+  --grid-gap: 24px;
+  --panel-padding: 24px;
+}

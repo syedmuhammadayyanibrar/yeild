@@ -1,0 +1,66 @@
+{"text": "Hey there! Thanks for reaching out. Yes, we are actually in the market for an outbound enrichment platform right now. Would 20 mins next Tuesday at 10am PT work for a demo?", "label": "interested", "language": "en"}
+{"text": "Count me in. Can you send over a Calendly or SavvyCal link so I can pick a slot?", "label": "interested", "language": "en"}
+{"text": "This solves a major headache we had last sprint with lead routing. I'd definitely like to see how you do it.", "label": "interested", "language": "en"}
+{"text": "Yes let's talk. Loop in my colleague Dan as well: dan@acme.org.", "label": "interested", "language": "en"}
+{"text": "Very timely message. How does Friday at 11am Eastern look on your end?", "label": "interested", "language": "en"}
+{"text": "Bonjour, votre outil semble prometteur. Avez-vous de la disponibilité jeudi prochain pour une visio de 30 minutes ?", "label": "interested", "language": "fr"}
+{"text": "Oui, nous cherchons activement ce type de solution. Prenons un créneau pour en discuter la semaine prochaine.", "label": "interested", "language": "fr"}
+{"text": "Hallo, das Thema ist bei uns gerade hochaktuell. Bitte senden Sie mir Terminvorschläge für die kommende Woche.", "label": "interested", "language": "de"}
+{"text": "Ja, sehr gerne. Ich würde mir gerne Ihre Demo ansehen. Passt Mittwoch um 15 Uhr?", "label": "interested", "language": "de"}
+{"text": "Hola, nos interesa conocer su propuesta. ¿Podríamos coordinar una breve llamada este jueves?", "label": "interested", "language": "es"}
+{"text": "Sí, justo estamos evaluando opciones en este ámbito. Envíeme un enlace para agendar.", "label": "interested", "language": "es"}
+{"text": "Could you please send over a 1-pager or PDF overview before we commit to a call?", "label": "info_request", "language": "en"}
+{"text": "Do you have any benchmark case studies in fintech or high-volume B2B SaaS?", "label": "info_request", "language": "en"}
+{"text": "Can you share your API documentation and how the CRM webhook sync is architected?", "label": "info_request", "language": "en"}
+{"text": "What is your pricing tier for under 10k monthly sends? Please send a pricing sheet.", "label": "info_request", "language": "en"}
+{"text": "Pouvez-vous m'envoyer votre livre blanc ou une documentation synthétique par email avant qu'on organise un échange ?", "label": "info_request", "language": "fr"}
+{"text": "Avez-vous des cas clients chiffrés pour des entreprises de notre taille ?", "label": "info_request", "language": "fr"}
+{"text": "Können Sie mir vorab ein Factsheet und Informationen zu den Datenschutz-Richtlinien (DSGVO) zusenden?", "label": "info_request", "language": "de"}
+{"text": "¿Podría enviarme una presentación del producto y casos de éxito en nuestro sector?", "label": "info_request", "language": "es"}
+{"text": "I am not handling vendor tools anymore. You should get in touch with Sarah Connors at sconnors@skynet.dev.", "label": "referral", "language": "en"}
+{"text": "Best person to discuss this with is our VP of Sales Ops, David Miller (dmiller@horizon.co).", "label": "referral", "language": "en"}
+{"text": "Please redirect this message to Jessica in our demand gen team: jessica.p@stride.io.", "label": "referral", "language": "en"}
+{"text": "Je vous invite à contacter notre responsable acquisition, Thomas Blanc (tblanc@nova.fr).", "label": "referral", "language": "fr"}
+{"text": "Merci de vous rapprocher de Céline à l'adresse celine.moreau@atelier.fr qui gère ce périmètre.", "label": "referral", "language": "fr"}
+{"text": "Bitte wenden Sie sich hierfür direkt an Herrn Klaus Richter unter k.richter@systeme.de.", "label": "referral", "language": "de"}
+{"text": "Para este tipo de herramientas debe contactar con Marta Gómez (mgomez@soluciones.es).", "label": "referral", "language": "es"}
+{"text": "I am not the right person for this. I work on firmware engineering.", "label": "wrong_person", "language": "en"}
+{"text": "Wrong contact here. Try searching our marketing team on LinkedIn.", "label": "wrong_person", "language": "en"}
+{"text": "I have zero involvement with software licensing or sales pipelines.", "label": "wrong_person", "language": "en"}
+{"text": "Vous faites erreur, je travaille au service comptabilité et paie.", "label": "wrong_person", "language": "fr"}
+{"text": "Falscher Ansprechpartner, ich bin für diesen Aufgabenbereich nicht zuständig.", "label": "wrong_person", "language": "de"}
+{"text": "No soy la persona indicada para evaluar este software.", "label": "wrong_person", "language": "es"}
+{"text": "We are heads down rolling out our core product until November. Ping me again at the start of Q1.", "label": "objection_timing", "language": "en"}
+{"text": "Bad timing unfortunately. We just started an internal migration. Let's revisit in 6 months.", "label": "objection_timing", "language": "en"}
+{"text": "Not right now. Reconnect with me in early 2027.", "label": "objection_timing", "language": "en"}
+{"text": "Pas le bon moment pour nous. Nous sommes en plein audit annuel. Relancez-moi en octobre.", "label": "objection_timing", "language": "fr"}
+{"text": "Das passt momentan leider gar nicht. Bitte melden Sie sich erst im ersten Quartal nächsten Jahres wieder.", "label": "objection_timing", "language": "de"}
+{"text": "Ahora mismo estamos cerrando presupuestos. Vuelva a contactarme en noviembre por favor.", "label": "objection_timing", "language": "es"}
+{"text": "All software spend is frozen company-wide until further notice.", "label": "objection_budget", "language": "en"}
+{"text": "We have zero budget allocated for net-new outbound tools this fiscal year.", "label": "objection_budget", "language": "en"}
+{"text": "We are currently trimming our SaaS stack to cut burn, not buying new tools.", "label": "objection_budget", "language": "en"}
+{"text": "Gel budgétaire total sur tous les nouveaux contrats jusqu'à la fin de l'exercice fiscal.", "label": "objection_budget", "language": "fr"}
+{"text": "Wir haben für dieses Geschäftsjahr leider keinerlei Budget für externe Plattformen zur Verfügung.", "label": "objection_budget", "language": "de"}
+{"text": "Tenemos los presupuestos completamente bloqueados para nuevas contrataciones de software.", "label": "objection_budget", "language": "es"}
+{"text": "We already rolled out Outreach across the entire sales floor and signed a 2-year commit.", "label": "objection_competitor", "language": "en"}
+{"text": "We use Apollo for data and Salesloft for cadences, so we are completely covered.", "label": "objection_competitor", "language": "en"}
+{"text": "We evaluated this space last summer and settled on HubSpot.", "label": "objection_competitor", "language": "en"}
+{"text": "Nous utilisons déjà Lemlist et nous en sommes extrêmement satisfaits.", "label": "objection_competitor", "language": "fr"}
+{"text": "Wir arbeiten bereits seit zwei Jahren erfolgreich mit Salesforce und Pipedrive.", "label": "objection_competitor", "language": "de"}
+{"text": "Actualmente ya contamos con HubSpot y estamos muy contentos con el servicio.", "label": "objection_competitor", "language": "es"}
+{"text": "We are a brick-and-mortar logistics warehouse, we don't do cold email or digital outreach.", "label": "not_relevant", "language": "en"}
+{"text": "We build all our data enrichment internal scripts in Python, this doesn't fit our architecture.", "label": "not_relevant", "language": "en"}
+{"text": "Ce n'est pas du tout adapté à notre modèle d'affaires, nous vendons uniquement aux particuliers.", "label": "not_relevant", "language": "fr"}
+{"text": "Das ist für unsere Branche und unser Geschäftsmodell nicht relevant.", "label": "not_relevant", "language": "de"}
+{"text": "Esto no aplica para nada a nuestro modelo de negocio ni al sector en el que operamos.", "label": "not_relevant", "language": "es"}
+{"text": "I am currently out of the office on annual leave through Friday, October 16 with no email access.", "label": "out_of_office", "language": "en"}
+{"text": "Auto-response: I will be out on parental leave returning in December.", "label": "out_of_office", "language": "en"}
+{"text": "Je suis absent du bureau jusqu'au lundi 19 octobre inclus.", "label": "out_of_office", "language": "fr"}
+{"text": "Automatische Antwort: Ich bin bis zum 24. Oktober im Urlaub und lese keine E-Mails.", "label": "out_of_office", "language": "de"}
+{"text": "Respuesta automática: Me encuentro fuera de la oficina hasta el próximo martes.", "label": "out_of_office", "language": "es"}
+{"text": "Please unsubscribe me from your mailing list and remove my information immediately.", "label": "unsubscribe", "language": "en"}
+{"text": "Take me off your list. Stop sending unsolicited emails to our employees.", "label": "unsubscribe", "language": "en"}
+{"text": "Unsubscribe. Do not email me again.", "label": "unsubscribe", "language": "en"}
+{"text": "Merci de supprimer immédiatement mon adresse de vos bases de prospection (RGPD).", "label": "unsubscribe", "language": "fr"}
+{"text": "Bitte tragen Sie mich unverzüglich aus Ihrem Verteiler aus.", "label": "unsubscribe", "language": "de"}
+{"text": "Por favor desuscríbame de su lista y no vuelva a escribir a este correo.", "label": "unsubscribe", "language": "es"}
